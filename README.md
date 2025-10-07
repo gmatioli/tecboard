@@ -1,21 +1,20 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# tecboard
+# tecboard v1
 Curso de React 19: JSX, componentes, form action e useState
->>>>>>> a5bbba8c4d99d6cc3e4297b9c4226be9e7ae047e
+
+# Aprendizado:
+    - A importância de inicializar corretamente um projeto React usando o Vite.
+    
+    - O papel do Node.js como ferramenta para desenvolvimento frontend em React.
+    
+    - Como estruturar e gerenciar componentes React com JSX.
+    
+    - A utilização de HMR para atualizações em tempo real no navegador.
+    
+    - Técnicas para aplicar CSS em projetos React, incluindo Flexbox e estilos responsivos.
+    
+    - Como inserir e manipular imagens estáticas dentro de um projeto React.
+    
+    - Diferença entre abordagens declarativas do React e programação imperativa.
+    
+    - Regras e boas práticas para escrever JSX corretamente.
+
