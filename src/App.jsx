@@ -1,23 +1,5 @@
 import './App.css'
-
-//no react, componentes são funções
-
-function FormularioDeEventos () {
-
-  return (
-    <form className='form-evento'>
-
-      <h2>Preencha para criar um evento:</h2>
-      <fieldset>
-        <label htmlFor="">
-      Qual o nome do evento?
-        </label>
-        <input type="text" id='nome' />
-      </fieldset>
-
-    </form>
-  )
-}
+import {FormularioDeEventos} from './components/FormularioDeEventos'
 
 function App() {
   return (
