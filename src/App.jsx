@@ -1,5 +1,6 @@
 import './App.css'
 import { Banner } from './components/Banner'
+import { CardEvento } from './components/CardEvento'
 import {FormularioDeEventos} from './components/FormularioDeEventos'
 import { Tema } from './components/Tema'
 
@@ -54,7 +55,7 @@ temas.map
         return (
           <section key={item.id}>
             <Tema tema={item} />
-            <CardEvento evento={} />
+            <CardEvento evento={eventos[0]} />
           </section>
         )
       })}
