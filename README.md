@@ -38,6 +38,17 @@
     - A formatar datas em JavaScript utilizando o método toLocaleString.
 
 
+---
+
+# tecboard v4
+
+# Aprendizado:
+    - Como lidar com a submissão de formulários no React e manipulação de dados com FormData.
+    - A passar funções como props para componentes e gerenciar listas com map e push.
+    - O conceito de estado no React e gerenciamento com useState.
+    - A imutabilidade e utilização do operador spread para atualizar o estado.
+
+
 
 
 
