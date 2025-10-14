@@ -25,4 +25,21 @@
     - Incorporação de fontes externas.
 
 
+---
+
+# tecboard v3
+
+# Aprendizado:
+    - Como o React transforma JSX em chamadas para React.createElement e utiliza o Virtual DOM para atualizar eficientemente o DOM real.
+    - A criar e estruturar arrays de objetos em JavaScript e a renderizar itens de lista com componentes React.
+    - A utilizar destructuring para extrair propriedades de objetos em componentes React.
+    - A percorrer arrays em React com o método map e a importância da propriedade key para otimização de renderização.
+    - A interpretar mensagens de erro no console para diagnosticar problemas em código React.
+    - A formatar datas em JavaScript utilizando o método toLocaleString.
+
+
+
+
+
+
 
