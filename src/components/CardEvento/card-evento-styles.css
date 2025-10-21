@@ -1,12 +1,13 @@
 .card-evento {
     background-color: #212121;
-    color: #FFF;
     display: flex;
     flex-direction: column;
     width: 282px;
+    color: #FFFFFF;
 }
 
-.card-evento p, .card-evento h4 {
+.card-evento p,
+.card-evento h4 {
     margin: 0;
 }
 

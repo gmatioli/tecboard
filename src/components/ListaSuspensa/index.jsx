@@ -1,6 +1,7 @@
-import './lista-suspensa-style.css'
+import './lista-suspensa-styles.css'
 
 export function ListaSuspensa ({ itens, ...rest }) {
+
     return (
         <select {...rest} className='lista-suspensa-form' defaultValue="">
             <option value="" disabled>

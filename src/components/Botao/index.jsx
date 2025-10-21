@@ -1,4 +1,4 @@
-import './botao-style.css'
+import './botao-styles.css'
 
 export function Botao({ children }) {
     return (

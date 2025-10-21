@@ -1,10 +1,10 @@
-import './card-evento-style.css'
+import './card-evento-styles.css'
 
-export function CardEvento ({ evento }) {
+export function CardEvento({ evento }) {
     return (
         <div className='card-evento'>
-            <img src={evento.capa} alt={evento.titulo} />
-            <div className='corpo'>
+            <img src={evento.capa} alt={evento.titulo}/>
+            <div className="corpo">
                 <p className="tag">
                     {evento.tema.nome}
                 </p>

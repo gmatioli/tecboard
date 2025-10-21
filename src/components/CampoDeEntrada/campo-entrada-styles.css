@@ -5,10 +5,9 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 120%;
-    color: #FFF;
-    padding: 8px 16px;
+    color: #ffffff;  
+    padding: 8px 16px;  
 }
-
 .campo-entrada-form::placeholder {
-    color: #4A4949;
+    color:#4A4949;
 }

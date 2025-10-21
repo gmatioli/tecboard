@@ -1,9 +1,9 @@
-import './banner-style.css'
+import './banner-styles.css'
 
-export function Banner () {
+export function Banner() {
     return (
         <section className='banner'>
-            <img src="../banner.png"/>
+            <img src="/banner.png" alt="" />
         </section>
     )
 }
