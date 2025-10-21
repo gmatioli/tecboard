@@ -30,7 +30,21 @@ git clone https://github.com/seu-usuario/tecboard.git
 cd tecboard
 ```
 
+<<<<<<< HEAD
 2. Instale as dependências:
+=======
+---
+
+# tecboard v4
+
+# Aprendizado:
+    - Como lidar com a submissão de formulários no React e manipulação de dados com FormData.
+    - A passar funções como props para componentes e gerenciar listas com map e push.
+    - O conceito de estado no React e gerenciamento com useState.
+    - A imutabilidade e utilização do operador spread para atualizar o estado.
+
+
+>>>>>>> bd64b66408f0478d0d5d4d72c67cb728ec1e0b7e
 
 ```bash
 npm install
